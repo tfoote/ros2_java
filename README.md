@@ -44,7 +44,7 @@ The current set of features include:
 
 > Note: While the following instructions use a Linux shell the same can be done on other platforms like Windows with slightly adjusted commands.
 
-1. [Install ROS 2](https://index.ros.org/doc/ros2/Installation).
+1. [Install ROS 2](https://docs.ros.org/en/rolling/Installation.html).
 
 1. Install Java and a JDK.
 
